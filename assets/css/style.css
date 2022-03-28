@@ -595,6 +595,22 @@ section {
   padding: 0;
 }
 
+.app-car-img1 {
+  background-image: url(../img/portfolio/app-car-1.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.app-car-img2 {
+  background-image: url(../img/portfolio/app-car-2.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
