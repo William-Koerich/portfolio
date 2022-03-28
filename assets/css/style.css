@@ -627,6 +627,14 @@ section {
   height: 600px;
 }
 
+.snake-game-gif {
+  background-image: url(../img/portfolio/snake.gif);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
