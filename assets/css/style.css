@@ -611,6 +611,22 @@ section {
   height: 600px;
 }
 
+.curt-link-img1 {
+  background-image: url(../img/portfolio/curt-link-1.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.curt-link-img2 {
+  background-image: url(../img/portfolio/curt-link-2.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
