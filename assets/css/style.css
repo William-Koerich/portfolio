@@ -635,6 +635,37 @@ section {
   height: 600px;
 }
 
+.pwa-covid-img {
+  background-image: url(../img/portfolio/pwa-covid.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.portfolio-curt-link{
+  background-image: url(../img/portfolio/curt-link-1.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 370px;
+}
+
+.portfolio-snake{
+  background-image: url(../img/portfolio/snake.gif);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 370px;
+}
+
+.portfolio-pwa-covid{
+  background-image: url(../img/portfolio/pwa-covid.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 370px;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
